@@ -146,6 +146,8 @@
 
 ### Описание команды git merge
 
+Создали ветку merge_instruction
+
 ### Описание команды git log --graph
 
 ## Добавление картинки и .gitignore
