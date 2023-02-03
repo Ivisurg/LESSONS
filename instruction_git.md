@@ -150,5 +150,7 @@
 
 ### Описание команды git log --graph
 
+Создали ветку log_graph_instruction
+
 ## Добавление картинки и .gitignore
 
